@@ -1,6 +1,32 @@
+<<<<<<< HEAD
 {
   "devDependencies": {
     "webpack": "^5.73.0",
     "webpack-cli": "^4.10.0"
   }
 }
+=======
+q{
+  "name": "js-course",
+  "version": "1.0.0",
+  "description": "pure javascript application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dn301293paa1/js-cource.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "andrii ponomarenko <dn301293paa1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dn301293paa1/js-cource/issues"
+  },
+  "homepage": "https://github.com/dn301293paa1/js-cource#readme"
+}
+>>>>>>> Webpack
