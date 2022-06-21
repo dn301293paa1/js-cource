@@ -1,33 +1,31 @@
-<<<<<<< HEAD
 {
-  "devDependencies": {
-    "webpack": "^5.73.0",
-    "webpack-cli": "^4.10.0"
-  }
-}
-=======
-q{
-  "name": "js-course",
+  "name": "excel-course",
   "version": "1.0.0",
-  "description": "pure javascript application",
+  "description": "Pure JavaScript Excel Application",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dn301293paa1/js-cource.git"
+    "url": "git+https://github.com/vladilenm/excel-course.git"
   },
   "keywords": [
     "js",
-    "javascript"
+    "javascript",
+    "excel"
   ],
-  "author": "andrii ponomarenko <dn301293paa1@gmail.com>",
+  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dn301293paa1/js-cource/issues"
+    "url": "https://github.com/vladilenm/excel-course/issues"
   },
-  "homepage": "https://github.com/dn301293paa1/js-cource#readme"
+  "homepage": "https://github.com/vladilenm/excel-course#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
 }
->>>>>>> Webpack
-
