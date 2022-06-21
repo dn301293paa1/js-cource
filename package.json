@@ -17,13 +17,12 @@
     "javascript",
     "excel"
   ],
-  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
+  "author": "Andrii Pononmarenko <dn301293paa1@gmail.com.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vladilenm/excel-course/issues"
   },
   "homepage": "https://github.com/vladilenm/excel-course#readme",
-  "private": true,
   "devDependencies": {
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
